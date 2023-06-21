@@ -14,7 +14,6 @@ with open("README.md", "r") as f:
             name=REPO_NAME,
             version=__version__,
             author=AUTHOR,
-            author_email="neda.ebrahimi.kp@gmail.com",
             description="Text summarization",
             long_description=long_description,
             long_description_content_type="text/markdown",
